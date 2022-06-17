@@ -1,33 +1,28 @@
-Pyrogram==1.4.16
+pyrogram
+
 tgcrypto
+
 async-timeout
+
 aiohttp
+
 psycopg2-binary
+
 pillow
+
 hachoir
+
 pymongo
-dnspython
-
-
-
-
-pyromod
-
-python-dotenv
 
 dnspython
 
-motor
 
 
 
-hachoir
 
-mutagen
 
-psutil
 
-aiofiles
+
 
 
 
